@@ -21,10 +21,10 @@ This project automates the creation of professional company brochures by leverag
 
 Provide the company name and primary website URL as inputs. The system will:​
 
-1.Scrape the website to identify relevant pages.
-2.Use llama3.2 to extract and summarize content.
-3.Generate a structured brochure using GPT-4o.
-4.Display the brochure in the notebook interface.
+- 1.Scrape the website to identify relevant pages.
+- 2.Use llama3.2 to extract and summarize content.
+- 3.Generate a structured brochure using GPT-4o.
+- 4.Display the brochure in the notebook interface.
 
 
 
